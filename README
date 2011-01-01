@@ -1,0 +1,9 @@
+This version of the binding was created for openframeworks 0.06.
+You may have to tinker to get it to work with the latest version.
+
+To compile you need:
+swig
+openframeworks 0.06
+code blocks
+
+Tested only on windows
