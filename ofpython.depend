@@ -1,0 +1,1127 @@
+# depslib dependency file v1.0
+1236977240 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\app\ofappglutwindow.cpp
+	"ofAppGlutWindow.h"
+	"ofBaseApp.h"
+	"ofMain.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\app\ofappglutwindow.h
+	"ofConstants.h"
+	"ofAppBaseWindow.h"
+	"glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1236977240 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\utils\ofconstants.h
+	<TargetConditionals.h>
+	<windows.h>
+	"GLee.h"
+	"glu.h"
+	<unistd.h>
+	"GLee.h"
+	<OpenGL/glu.h>
+	<ApplicationServices/ApplicationServices.h>
+	<unistd.h>
+	"GLee.h"
+	<GL/glu.h>
+	<stdio.h>
+	<stdarg.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iomanip>
+
+1163487558 f:\programming\cpp\of\ofpython-0.06\libs\glee\include\glee.h
+	<windows.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1186969992 f:\programming\cpp\of\ofpython-0.06\libs\glu\glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\app\ofappbasewindow.h
+	"ofTypes.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\utils\oftypes.h
+	"ofConstants.h"
+
+924644906 f:\programming\cpp\of\ofpython-0.06\libs\glut\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1236977240 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\app\ofbaseapp.h
+	"ofTypes.h"
+
+1236006422 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\ofmain.h
+	"ofConstants.h"
+	"ofMath.h"
+	"ofUtils.h"
+	"ofTypes.h"
+	"ofSerial.h"
+	"ofStandardFirmata.h"
+	"ofArduino.h"
+	"ofTexture.h"
+	"ofTrueTypeFont.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoGrabber.h"
+	"ofVideoPlayer.h"
+	"ofEvents.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\utils\ofmath.h
+	"ofConstants.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\utils\ofutils.h
+	"ofConstants.h"
+	<shellapi.h>
+
+1235951008 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\communication\ofserial.h
+	"ofConstants.h"
+	<termios.h>
+	<sys/ioctl.h>
+	<getopt.h>
+	<dirent.h>
+	<winbase.h>
+	<tchar.h>
+	<iostream>
+	<string.h>
+	<setupapi.h>
+	<regstr.h>
+	<winioctl.h>
+	<initguid.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<errno.h>
+	<ctype.h>
+
+1237655418 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\communication\ofstandardfirmata.h
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	"ofEvents.h"
+	"ofSerial.h"
+
+1236977240 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\events\ofevents.h
+	"ofConstants.h"
+	"ofEventUtils.h"
+	"ofxEventUtils.h"
+
+1235951008 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\events\ofeventutils.h
+	"ofConstants.h"
+	"Poco/FIFOEvent.h"
+	"Poco/Delegate.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\fifoevent.h
+	"Poco/AbstractEvent.h"
+	"Poco/FIFOStrategy.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/CompareFunctions.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\abstractevent.h
+	"Poco/Foundation.h"
+	"Poco/SingletonHolder.h"
+	"Poco/SharedPtr.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveMethod.h"
+	"Poco/Mutex.h"
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\foundation.h
+	"Poco/Config.h"
+	"Poco/Platform.h"
+	"Poco/Platform_WIN32.h"
+	"Poco/Platform_VMS.h"
+	"Poco/Platform_POSIX.h"
+	"Poco/Bugcheck.h"
+	"Poco/Types.h"
+	<string>
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\config.h
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\platform.h
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\platform_win32.h
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\platform_vms.h
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\platform_posix.h
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\bugcheck.h
+	"Poco/Foundation.h"
+	<string>
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\types.h
+	"Poco/Foundation.h"
+
+1208247908 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\singletonholder.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\mutex.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/ScopedLock.h"
+	"Poco/Mutex_WIN32.h"
+	"Poco/Mutex_POSIX.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\exception.h
+	"Poco/Foundation.h"
+	<stdexcept>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\scopedlock.h
+	"Poco/Foundation.h"
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\mutex_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\unwindows.h
+	<windows.h>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\mutex_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\sharedptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Mutex.h"
+	<algorithm>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\activeresult.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\event.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/Event_WIN32.h"
+	"Poco/Event_POSIX.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\event_win32.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	"Poco/UnWindows.h"
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\event_posix.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<pthread.h>
+	<errno.h>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\refcountedobject.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+
+1208248220 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\activemethod.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/ActiveRunnable.h"
+	"Poco/ActiveStarter.h"
+	"Poco/AutoPtr.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\activerunnable.h
+	"Poco/Foundation.h"
+	"Poco/ActiveResult.h"
+	"Poco/Runnable.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	"Poco/Exception.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\runnable.h
+	"Poco/Foundation.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\autoptr.h
+	"Poco/Foundation.h"
+	"Poco/Exception.h"
+	<algorithm>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\activestarter.h
+	"Poco/Foundation.h"
+	"Poco/ThreadPool.h"
+	"Poco/ActiveRunnable.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\threadpool.h
+	"Poco/Foundation.h"
+	"Poco/Thread.h"
+	"Poco/Mutex.h"
+	<vector>
+
+1208248220 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\thread.h
+	"Poco/Foundation.h"
+	"Poco/Mutex.h"
+	"Poco/Thread_WIN32.h"
+	"Poco/Thread_POSIX.h"
+
+1208248220 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\thread_win32.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/UnWindows.h"
+
+1208248220 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\thread_posix.h
+	"Poco/Foundation.h"
+	"Poco/Runnable.h"
+	"Poco/SignalHandler.h"
+	"Poco/Event.h"
+	"Poco/RefCountedObject.h"
+	"Poco/AutoPtr.h"
+	<pthread.h>
+	<sys/select.h>
+	<errno.h>
+
+1208247908 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\signalhandler.h
+	"Poco/Foundation.h"
+	<vector>
+	<setjmp.h>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\fifostrategy.h
+	"Poco/NotificationStrategy.h"
+	<map>
+	<list>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\notificationstrategy.h
+	"Poco/Foundation.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\abstractdelegate.h
+	"Poco/Foundation.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\comparefunctions.h
+	"Poco/Foundation.h"
+	<functional>
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\delegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/FunctionDelegate.h"
+	"Poco/Expire.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\functiondelegate.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+
+1208247912 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\expire.h
+	"Poco/Foundation.h"
+	"Poco/AbstractDelegate.h"
+	"Poco/Timestamp.h"
+
+1208247910 f:\programming\cpp\of\ofpython-0.06\libs\poco\includes\poco\timestamp.h
+	"Poco/Foundation.h"
+	<ctime>
+
+1236456642 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\communication\ofarduino.h
+	"ofStandardFirmata.h"
+
+1236006420 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\oftexture.h
+	"ofConstants.h"
+	"ofGraphics.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\ofgraphics.h
+	"ofConstants.h"
+	"ofTypes.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\oftruetypefont.h
+	"ofConstants.h"
+	"ofGraphics.h"
+	"ofUtils.h"
+	"ofTypes.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\ofimage.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGraphics.h"
+	"ofAppRunner.h"
+	"FreeImage.h"
+	"ofUtils.h"
+
+1235951006 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\app\ofapprunner.h
+	"ofMain.h"
+	"ofBaseApp.h"
+	"ofAppBaseWindow.h"
+	"ofAppGlutWindow.h"
+
+1168758318 f:\programming\cpp\of\ofpython-0.06\libs\freeimage\freeimage.h
+	<wchar.h>
+	<stdint.h>
+
+1235951008 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\sound\ofsoundstream.h
+	"ofConstants.h"
+	"ofBaseApp.h"
+	"ofEvents.h"
+	"ofMath.h"
+
+1236006422 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\sound\ofsoundplayer.h
+	"ofConstants.h"
+	"fmod.h"
+	"fmod_errors.h"
+
+1179415472 f:\programming\cpp\of\ofpython-0.06\libs\fmodex\inc\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+
+1179415472 f:\programming\cpp\of\ofpython-0.06\libs\fmodex\inc\fmod_codec.h
+
+1179415472 f:\programming\cpp\of\ofpython-0.06\libs\fmodex\inc\fmod_dsp.h
+
+1179415472 f:\programming\cpp\of\ofpython-0.06\libs\fmodex\inc\fmod_errors.h
+	"fmod.h"
+
+1235951008 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofvideograbber.h
+	"ofConstants.h"
+	"ofTexture.h"
+	"ofGraphics.h"
+	"ofTypes.h"
+	"ofQtUtils.h"
+	"videoInput.h"
+	"ofUCUtils.h"
+
+1236006422 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofqtutils.h
+	"ofConstants.h"
+	"ofGraphics.h"
+	<QuickTime/QuickTime.h>
+	<CoreServices/CoreServices.h>
+	<ApplicationServices/ApplicationServices.h>
+	<QTML.h>
+	<FixMath.h>
+	<QuickTimeComponents.h>
+	<TextUtils.h>
+	<MediaHandlers.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\qtml.h
+	<MacTypes.h>
+	<MacMemory.h>
+	<MacWindows.h>
+	<OSUtils.h>
+	<Files.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\mactypes.h
+	<ConditionalMacros.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\conditionalmacros.h
+
+1034609992 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\macmemory.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\mixedmode.h
+	<MacTypes.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\macwindows.h
+	<MacTypes.h>
+	<Aliases.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<Drag.h>
+	<Events.h>
+	<Menus.h>
+	<MixedMode.h>
+	<QDOffscreen.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<Icons.h>
+	<MacErrors.h>
+
+1036075242 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\aliases.h
+	<MacTypes.h>
+	<AppleTalk.h>
+	<Files.h>
+
+1036075242 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\appletalk.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\osutils.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<MacMemory.h>
+	<Patches.h>
+	<DateTimeUtils.h>
+	<Endian.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\patches.h
+	<MacTypes.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\datetimeutils.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\endian.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\files.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<OSUtils.h>
+	<TextCommon.h>
+	<UTCUtils.h>
+	<Finder.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\textcommon.h
+	<MacTypes.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\utcutils.h
+	<MacTypes.h>
+	<MacErrors.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\macerrors.h
+	<ConditionalMacros.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\finder.h
+	<MacTypes.h>
+
+1036075242 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\appleevents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Notification.h>
+	<Events.h>
+	<AEDataModel.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\notification.h
+	<MacTypes.h>
+	<OSUtils.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\events.h
+	<OSUtils.h>
+	<Quickdraw.h>
+	<MacTypes.h>
+	<Endian.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\quickdraw.h
+	<Components.h>
+	<MacTypes.h>
+	<MixedMode.h>
+	<QuickdrawText.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\components.h
+	<MacErrors.h>
+	<MacTypes.h>
+	<MixedMode.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\quickdrawtext.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1036075242 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\aedatamodel.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\collections.h
+	<MacTypes.h>
+	<MixedMode.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\drag.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+	<AppleEvents.h>
+	<Quickdraw.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\menus.h
+	<MacTypes.h>
+	<Events.h>
+	<Quickdraw.h>
+	<Fonts.h>
+	<TextCommon.h>
+	<Processes.h>
+	<AppleEvents.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\fonts.h
+	<MacTypes.h>
+	<Files.h>
+	<Quickdraw.h>
+	<TextCommon.h>
+	<MacErrors.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\processes.h
+	<MacTypes.h>
+	<Events.h>
+	<Files.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\qdoffscreen.h
+	<MacErrors.h>
+	<Quickdraw.h>
+
+1034609990 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\icons.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Files.h>
+	<CodeFragments.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\codefragments.h
+	<MacTypes.h>
+	<Files.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\fixmath.h
+	<MacTypes.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\quicktimecomponents.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<Sound.h>
+	<QuickTimeMusic.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\imagecompression.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<QDOffscreen.h>
+	<Components.h>
+	<StandardFile.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\standardfile.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Files.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\dialogs.h
+	<MacTypes.h>
+	<MixedMode.h>
+	<Events.h>
+	<MacWindows.h>
+	<TextEdit.h>
+	<Controls.h>
+	<MacErrors.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\textedit.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<MixedMode.h>
+
+1036075244 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\controls.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<Menus.h>
+	<TextEdit.h>
+	<Drag.h>
+	<Icons.h>
+	<Collections.h>
+	<MacErrors.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\movies.h
+	<Quickdraw.h>
+	<Aliases.h>
+	<Events.h>
+	<Menus.h>
+	<Components.h>
+	<ImageCompression.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\video.h
+	<Quickdraw.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\sound.h
+	<MacTypes.h>
+	<Dialogs.h>
+	<Components.h>
+	<MixedMode.h>
+	<Movies.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\quicktimemusic.h
+	<Components.h>
+	<ImageCompression.h>
+	<Movies.h>
+	<Quickdraw.h>
+	<Video.h>
+	<MacMemory.h>
+	<Sound.h>
+	<Endian.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\textutils.h
+	<MacTypes.h>
+	<NumberFormatting.h>
+	<StringCompare.h>
+	<DateTimeUtils.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\numberformatting.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<IntlResources.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\intlresources.h
+	<MacTypes.h>
+
+1036075250 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\stringcompare.h
+	<MacTypes.h>
+	<TextCommon.h>
+	<Script.h>
+
+1036075248 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\script.h
+	<MacTypes.h>
+	<Quickdraw.h>
+	<IntlResources.h>
+	<Events.h>
+
+1036075246 f:\programming\cpp\of\ofpython-0.06\libs\quicktime\cincludes\mediahandlers.h
+	<ConditionalMacros.h>
+	<MacTypes.h>
+	<Components.h>
+	<Movies.h>
+	<Sound.h>
+
+1233576092 f:\programming\cpp\of\ofpython-0.06\libs\videoinput\include\videoinput.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<wchar.h>
+	<windows.h>
+
+1236977242 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofucutils.h
+	"ofConstants.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<unicap.h>
+	<unistd.h>
+	<string.h>
+	<pthread.h>
+
+1261492392 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofvideoplayer.h
+	"ofConstants.h"
+	"ofTexture.h"
+	<gst/gst.h>
+	<pthread.h>
+	"ofQtUtils.h"
+
+1236006420 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\app\ofapprunner.cpp
+	"ofAppRunner.h"
+	"ofAppiPhoneWindow.h"
+	"ofAppGlutWindow.h"
+
+1237655380 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\communication\ofarduino.cpp
+	"ofArduino.h"
+	"ofUtils.h"
+
+1236977240 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\communication\ofserial.cpp
+	"ofSerial.h"
+	"ofMain.h"
+
+1236977240 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\communication\ofstandardfirmata.cpp
+	"ofStandardFirmata.h"
+
+1235951006 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\ofbitmapfont.cpp
+	"ofBitmapFont.h"
+
+1236982552 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\ofbitmapfont.h
+	"ofConstants.h"
+
+1236982552 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\ofgraphics.cpp
+	"ofGraphics.h"
+	"ofAppRunner.h"
+	"ofBitmapFont.h"
+	<OpenGL/glu.h>
+	"glu.h"
+	"GL/glu.h"
+	"glu.h"
+	<vector>
+
+1236977240 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\ofimage.cpp
+	"ofImage.h"
+
+1236982552 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\oftexture.cpp
+	"ofTexture.h"
+	"ofUtils.h"
+	"ofAppRunner.h"
+
+1236977240 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\graphics\oftruetypefont.cpp
+	"ofTrueTypeFont.h"
+	<ft2build.h>
+	<freetype/freetype.h>
+	<freetype/ftglyph.h>
+	<freetype/ftoutln.h>
+	<freetype/fttrigon.h>
+	"ft2build.h"
+	"freetype.h"
+	"ftglyph.h"
+	"ftoutln.h"
+	"fttrigon.h"
+
+993772080 f:\programming\cpp\of\ofpython-0.06\libs\freetype\include\ft2build.h
+	<freetype/config/ftheader.h>
+
+1042688880 f:\programming\cpp\of\ofpython-0.06\libs\freetype\include\freetype2\freetype\config\ftheader.h
+
+1042692180 f:\programming\cpp\of\ofpython-0.06\libs\freetype\include\freetype2\freetype\freetype.h
+	<ft2build.h>
+
+1042577580 f:\programming\cpp\of\ofpython-0.06\libs\freetype\include\freetype2\freetype\ftglyph.h
+	<ft2build.h>
+
+1030501200 f:\programming\cpp\of\ofpython-0.06\libs\freetype\include\freetype2\freetype\ftoutln.h
+	<ft2build.h>
+
+1027696140 f:\programming\cpp\of\ofpython-0.06\libs\freetype\include\freetype2\freetype\fttrigon.h
+
+1236977242 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\sound\ofsoundplayer.cpp
+	"ofSoundPlayer.h"
+	"ofUtils.h"
+
+1235951008 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\sound\ofsoundstream.cpp
+	"ofSoundStream.h"
+	"RtAudio.h"
+
+1168841902 f:\programming\cpp\of\ofpython-0.06\libs\rtaudio\rtaudio.h
+	"RtError.h"
+	<string>
+	<vector>
+	<windows.h>
+	<process.h>
+	<pthread.h>
+	<CoreAudio/AudioHardware.h>
+
+1126799158 f:\programming\cpp\of\ofpython-0.06\libs\rtaudio\rterror.h
+	<iostream>
+	<string>
+
+1236469418 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\utils\ofmath.cpp
+	"ofMath.h"
+	"ofAppRunner.h"
+	<sys/time.h>
+
+1236977240 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\utils\ofutils.cpp
+	"ofUtils.h"
+	"ofImage.h"
+	"sys/time.h"
+	<mmsystem.h>
+	<direct.h>
+
+1236977242 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofqtutils.cpp
+	"ofQtUtils.h"
+	"ofUtils.h"
+
+1236977242 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofvideograbber.cpp
+	"ofVideoGrabber.h"
+	"ofUtils.h"
+	"ofV4LUtils.h"
+
+1235951008 f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofv4lutils.h
+	"ofConstants.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/stat.h>
+	<sys/mman.h>
+	<sys/types.h>
+	<time.h>
+	<linux/videodev.h>
+
+1237928434 source:f:\programming\cpp\of\ofpython-0.06\libs\openframeworks\video\ofvideoplayer.cpp
+	"ofVideoPlayer.h"
+	"ofUtils.h"
+	<gst/video/video.h>
+	"gst/app/gstappsink.h"
+
+1235884070 source:f:\programming\cpp\of\ofpython-0.06\src\cpp\swig\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
+1235918876 f:\programming\cpp\of\ofpython-0.06\src\cpp\swig\src\testapp.h
+	"ofMain.h"
+
+1235226522 source:f:\programming\cpp\of\ofpython-0.06\src\cpp\swig\src\testapp.cpp
+	"testApp.h"
+
+1235226522 source:f:\programming\cpp\of\ofpython-0.06\src\cpp\bindings\src\testapp.cpp
+	"testApp.h"
+
+1235918876 f:\programming\cpp\of\ofpython-0.06\src\cpp\bindings\src\testapp.h
+	"ofMain.h"
+
+1235884070 source:f:\programming\cpp\of\ofpython-0.06\src\cpp\bindings\src\main.cpp
+	"ofMain.h"
+	"testApp.h"
+	"ofAppGlutWindow.h"
+
+1261492422 source:f:\programming\cpp\of\ofpython-0.06\src\cpp\bindings\src\openframeworks_wrap.cxx
+	<Python.h>
+	<string.h>
+	<string>
+	<iostream>
+	<exception>
+	<vector>
+	<map>
+	<map>
+	"pythread.h"
+	<stdexcept>
+	"ofTypes.h"
+	"ofQtUtils.h"
+	"ofConstants.h"
+	"ofMath.h"
+	"ofUtils.h"
+	"ofSerial.h"
+	"ofTexture.h"
+	"ofTrueTypeFont.h"
+	"ofGraphics.h"
+	"ofImage.h"
+	"ofBaseApp.h"
+	"ofAppRunner.h"
+	"ofSoundStream.h"
+	"ofSoundPlayer.h"
+	"ofVideoPlayer.h"
+	"ofVideoGrabber.h"
+	<limits.h>
+	<float.h>
+	<math.h>
+	"glu.h"
+	<string>
+	"openframeworks_wrap.h"
+
+1213203652 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymath.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"pydebug.h"
+	"unicodeobject.h"
+	"intobject.h"
+	"boolobject.h"
+	"longobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"stringobject.h"
+	"bufferobject.h"
+	"bytesobject.h"
+	"bytearrayobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"cobject.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"pystate.h"
+	"pyarena.h"
+	"modsupport.h"
+	"pythonrun.h"
+	"ceval.h"
+	"sysmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"compile.h"
+	"eval.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"pyfpe.h"
+	<pth.h>
+
+1256518088 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\patchlevel.h
+
+1241440244 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\pc\pyconfig.h
+	<io.h>
+	<stdlib.h>
+	<float.h>
+	<basetsd.h>
+	<io.h>
+	<stdio.h>
+
+1240133962 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pymacconfig.h
+
+1231891218 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pyport.h
+	"pyconfig.h"
+	<stdint.h>
+	<stdlib.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/types.h>
+	"unixstuff.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<termios.h>
+	<osreldate.h>
+	<ctype.h>
+	<wctype.h>
+
+1241440244 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pymath.h
+	"pyconfig.h"
+	<stdint.h>
+
+1216698392 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pymem.h
+	"pyport.h"
+
+1238857842 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\object.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\objimpl.h
+	"pymem.h"
+
+1210110106 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pydebug.h
+
+1231891218 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<wctype.h>
+
+1215311758 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\intobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\boolobject.h
+
+1212167404 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\longobject.h
+
+1215311758 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\floatobject.h
+
+1208556788 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\complexobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\rangeobject.h
+
+1214264530 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\stringobject.h
+	<stdarg.h>
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\bufferobject.h
+
+1213152010 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\bytesobject.h
+
+1212357468 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\bytearrayobject.h
+	<stdarg.h>
+
+1202993254 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\tupleobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\listobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\dictobject.h
+
+1068127608 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\enumobject.h
+
+1202080472 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\setobject.h
+
+1202993254 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\methodobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\moduleobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\funcobject.h
+
+1202993254 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\classobject.h
+
+1212301246 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\fileobject.h
+
+1220031588 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\cobject.h
+
+1215809106 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\traceback.h
+
+1240189754 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\sliceobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\cellobject.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\iterobject.h
+
+1201356860 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\genobject.h
+
+1240189754 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\descrobject.h
+
+1213393114 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\warnings.h
+
+1198031864 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\weakrefobject.h
+
+1142418916 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\codecs.h
+
+1212983934 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pyerrors.h
+	<stdarg.h>
+
+1173712300 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pystate.h
+
+1141869568 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pyarena.h
+
+1201015518 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\modsupport.h
+	<stdarg.h>
+
+1213314142 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pythonrun.h
+
+1140024466 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\ceval.h
+
+1208040248 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\sysmodule.h
+
+1029133318 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\intrcheck.h
+
+1253127996 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\import.h
+
+1233614646 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\abstract.h
+
+1206565298 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\compile.h
+	"code.h"
+
+1206565298 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\code.h
+
+1049911582 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\eval.h
+
+1140024466 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pystrtod.h
+
+1222089826 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pystrcmp.h
+
+877387802 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pyfpe.h
+	<signal.h>
+	<setjmp.h>
+	<math.h>
+
+1213312188 f:\programming\cpp\of\ofpython-0.06\include\python-2.6.4\include\pythread.h
+
+1261492422 f:\programming\cpp\of\ofpython-0.06\src\cpp\bindings\src\openframeworks_wrap.h
+	<map>
+	<string>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="..\..\..\libs\openFrameworks\events\ofEvents.h" open="1" top="0" tabpos="5">
+		<Cursor position="619" topLine="6" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\graphics\ofBitmapFont.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="915" topLine="42" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofConstants.h" open="1" top="0" tabpos="10">
+		<Cursor position="645" topLine="276" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofMath.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="782" topLine="88" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\utils\ofTypes.h" open="1" top="0" tabpos="12">
+		<Cursor position="5513" topLine="259" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\video\ofQtUtils.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1167" topLine="23" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\video\ofQtUtils.h" open="1" top="0" tabpos="8">
+		<Cursor position="790" topLine="28" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\video\ofVideoGrabber.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="522" topLine="0" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\video\ofVideoPlayer.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="48" topLine="0" />
+	</File>
+	<File name="..\..\..\libs\openFrameworks\video\ofVideoPlayer.h" open="1" top="1" tabpos="9">
+		<Cursor position="2591" topLine="86" />
+	</File>
+	<File name="src\openframeworks_wrap.cxx" open="1" top="0" tabpos="2">
+		<Cursor position="1240318" topLine="39025" />
+	</File>
+	<File name="src\openframeworks_wrap.h" open="1" top="0" tabpos="1">
+		<Cursor position="1598" topLine="29" />
+	</File>
+</CodeBlocks_layout_file>
